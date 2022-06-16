@@ -18,4 +18,4 @@ New Variable:
 I will create a new variable, namely total_service, to catch the idea, whether adding more services could trigger churn
 
 _________________________________________________________________________________________________________________________________________________________________________
-Note: I was trained as an economist and in a process to understand data better through data science. You can find me in here (https://www.linkedin.com/in/meikha-azzani-813724138/)
+### Note: I was trained as an economist and in a process to understand data better through data science. You can find me in here (https://www.linkedin.com/in/meikha-azzani-813724138/)
